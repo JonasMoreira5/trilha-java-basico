@@ -26,4 +26,4 @@ Vamos ilustrar como executar um classe, depois de compilada, sem precisar usar I
 1. Abra o MS_DOS ou Power Shell
 2. Localize o diretório do seu projeto: **cd C:\estudos\dio-trilha-java-basico\java-terminal**
 3. Acesse a pasta *bin*: **cd bin**
-4. Agora digite o comando: **java MinhaClasse**  (*nome da sua classe sem a extensão* **.class**
+4. Agora digite o comando: **java MinhaClasse**  (*nome da sua classe sem a extensão* **.class**)

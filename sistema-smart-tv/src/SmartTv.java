@@ -1,9 +1,11 @@
 public class SmartTv {
+    // caracteristicas
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
 
     // Metodos  que manipulam esses estados
+    /*
     public void mudaCanal(int novoCanal){
         canal = novoCanal;
     }
@@ -15,7 +17,8 @@ public class SmartTv {
     public void diminuirCanal(){
         canal--;
     }
-
+    */
+    
     /*
     public void aumentarVolume(){
         volume++;

@@ -30,4 +30,4 @@ Vamos ilustrar como executar um classe, depois de compilada, sem precisar usar I
 
 ## Argumentos
 Quando executamos uma classe que contenha o método main, o mesmo permite que passemos um array [] de
-argumentos do tipo String. Logo podedmos após a definição da classe a ser executada informar estes parâmetros, exemplo:
+argumentos do tipo String. Logo podemos após a definição da classe a ser executada informar estes parâmetros, exemplo:

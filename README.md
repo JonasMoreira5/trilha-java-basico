@@ -2,5 +2,5 @@
 Repositório para exemplos do curso de Java Básico
 
 # Documentação
-Clique aqui para acessar a documentação Web dos Exercicios
-[Flex Grid](http://exemplo.com/)
+[Clique aqui](http://exemplo.com/) para acessar a documentação Web dos Exercicios
+

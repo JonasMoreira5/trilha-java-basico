@@ -8,3 +8,10 @@ A documentação Web foi criada com o seguinte comando:
 
 [Clique aqui](http://exemplo.com/) para acessar a documentação Web dos Exercicios
 
+## Terminal e Argumentos
+1. main args
+2. Scanner
+3. Execução via IDE
+4. Execução via prompt de comando
+
+

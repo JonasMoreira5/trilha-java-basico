@@ -4,7 +4,6 @@ public class Caneta {
     private boolean tampada;
     private String cor;
 
-
     // Método construtor (Possui mesmo nome da classe)
     public Caneta( String m, String c, float p ){
         this.modelo = m;

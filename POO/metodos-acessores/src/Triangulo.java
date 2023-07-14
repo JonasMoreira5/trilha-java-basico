@@ -1,8 +1,9 @@
 public class Triangulo {
-    private double ladoA;
-    private double ladoB;
-    private double ladoC;
+    public double ladoA;
+    public double ladoB;
+    public double ladoC;
 
+    
     public Triangulo(double ladoA2, double ladoB2, double ladoC2){
         this.ladoA = ladoA2;
         this.ladoB = ladoB2;

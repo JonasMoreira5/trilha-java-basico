@@ -35,3 +35,20 @@ argumentos do tipo String. Logo podemos após a definição da classe a ser exec
 ## Scanner
 A classe **Scanner** permite que p usuário tenha uma interação mais assertiva com o nosso programa, vejamos como mudar
 o nosso programa **AboutMe** para deixar mais intuitivo aos usuários.
+
+# Pílares da POO
+## Encapsulamento
+Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.
+Interface - Lista de serviços fornceidos por um componente. É o contato com  o mundo exterior, que define o que pode
+ser feito com um objeto dessa classe.
+vantatgens:
+  1. Tornar mudanças invisíveis
+  2. Facilitar reutilização do Código
+  3. Reduzir os efietos colaterais
+
+## Herança
+
+
+
+## Polimorfísmo
+

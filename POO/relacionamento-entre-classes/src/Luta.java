@@ -52,7 +52,7 @@ public class Luta {
                 this.desafiado.perderLuta();
                     break;
             }
-            System.out.println("==============="); 
+            System.out.println("========================"); 
         }else{
             System.out.println("Luta não pode acontecer");
         }

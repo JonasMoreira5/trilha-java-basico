@@ -1,6 +1,5 @@
 import java.util.Random;
 
-import javax.sound.midi.Soundbank;
 
 public class Luta {
     // atributos
@@ -33,6 +32,7 @@ public class Luta {
             // Escolhendo um numero aleatorio
             Random aleatorio = new Random();
             int vencedor = aleatorio.nextInt(3); // 0 1 2
+            System.out.println("=====RESULTADO DA LUTA=====");
             
             // adicionar Switch case
             switch(vencedor){
@@ -51,7 +51,8 @@ public class Luta {
                 this.desafiante.ganharLuta();
                 this.desafiado.perderLuta();
                     break;
-            }  
+            }
+            System.out.println("==============="); 
         }else{
             System.out.println("Luta não pode acontecer");
         }

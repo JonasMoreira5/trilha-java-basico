@@ -109,7 +109,7 @@ public class Lutador {
     // Métodos públicos
     public void apresentar(){
         System.out.println("------------------------------------");
-        System.out.println("Apresentamos o Lutador" + this.getNome());
+        System.out.println("Apresentamos o Lutador " + this.getNome());
         System.out.println("Diretamente de " + this.getNacionalidade());
         System.out.println("Com "+ this.getIdade() + " Anos");
         System.out.println("E " + this.getAltura() + "m de altura");

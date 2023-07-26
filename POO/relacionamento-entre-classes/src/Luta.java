@@ -1,5 +1,7 @@
 import java.util.Random;
 
+import javax.sound.midi.Soundbank;
+
 public class Luta {
     // atributos
     private Lutador desafiado;
@@ -32,7 +34,24 @@ public class Luta {
             Random aleatorio = new Random();
             int vencedor = aleatorio.nextInt(3); // 0 1 2
             
-            // adicionar Switch case  
+            // adicionar Switch case
+            switch(vencedor){
+                case 0: //empate
+                    System.out.println("Empatou");
+                    this.desafiado.empatarLuta();
+                    this.desafiante.empatarLuta();
+                    break;
+                case 1: // Desafiado vence
+                    System.out.println("Vitoria do " + this.desafiado.getNome());
+                    this.desafiado.ganharLuta();
+                    this.desafiante.perderLuta();
+                    break;
+                case 2: // Desafiante vence
+                System.out.println("Vitoria do " + this.desafiante.getNome());
+                this.desafiante.ganharLuta();
+                this.desafiado.perderLuta();
+                    break;
+            }  
         }else{
             System.out.println("Luta não pode acontecer");
         }

@@ -36,6 +36,18 @@ argumentos do tipo String. Logo podemos após a definição da classe a ser exec
 A classe **Scanner** permite que p usuário tenha uma interação mais assertiva com o nosso programa, vejamos como mudar
 o nosso programa **AboutMe** para deixar mais intuitivo aos usuários.
 
+## Tratamentos de Exeções
+E quando invitavelmente ocorrer uma exceção? Como nós desenvolvedores podemos ajustar o nosso algortimo
+para amenizar o ocorrido?
+
+* A instrução ***try*** permite que você defina um bloco de código para ser testado quanto a erros enquanto está
+sendo executado.
+
+* A instrução ***catch*** permite definir um bloco de código a ser executado, caso ocorra um erro no bloco try.
+
+* A instrução finally permite definir um bloco de código a ser executado independente de ocorrer um erro ou não. As palavras-chave
+**try** e **catch**vêm em pares: 
+
 # Pílares da POO
 ## Encapsulamento
 Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.

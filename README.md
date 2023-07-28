@@ -45,7 +45,8 @@ sendo executado.
 
 A instrução ***catch*** permite definir um bloco de código a ser executado, caso ocorra um erro no bloco try.
 
-A instrução finally permite definir um bloco de código a ser executado
+A instrução finally permite definir um bloco de código a ser executado independente de ocorrer um erro ou não. As palavras-chave
+´´try´´ e ´´catch´´´vêm em pares: 
 
 # Pílares da POO
 ## Encapsulamento

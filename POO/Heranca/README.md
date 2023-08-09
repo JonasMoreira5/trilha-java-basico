@@ -1,6 +1,6 @@
 ## Herança
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Herança é um dos recursos mais importantes de um sistema de Programação Orientado a Objetos (POO).
 
 ## Folder Structure
 

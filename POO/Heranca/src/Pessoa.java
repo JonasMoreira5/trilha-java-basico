@@ -6,7 +6,7 @@ public class Pessoa {
 
     // Métodos
     public void fazerAniv(){
-
+        this.idade++;
     }
 
     // Métodos especiais

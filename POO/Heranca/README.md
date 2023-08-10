@@ -26,6 +26,8 @@ atributos (variáveis) e métodos.
 #
 ## Tipos de Herança
 Existem diferentes tipos de herança, conforme descrito abaixo:
-![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/b9bdf22d-a592-4791-9c36-7d732fe2aa34)
+![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/9148d0e0-2577-4569-a1d1-97b89a8a66b7)
+
+
 
 

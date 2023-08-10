@@ -17,8 +17,11 @@ atributos (variáveis) e métodos.
 * **extends** - Palavra-reservada que suporta herança
 * **super** - Palavra-reservada que denota um método construtor ou variável da classe principal. 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
+## Caracteristicas da Herança
+* Capacidade de reutilizar o código existente de uma classe
+* Suporta substituição de método
+* Permite chamar métodos da superclasse dentro de métodos de uma subclasse usando **paçavra-reservada super**.
+* Não permite herdar a classe final ou substituir métodos finais.
+* Suporta herança múltipla usando interfaces.
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

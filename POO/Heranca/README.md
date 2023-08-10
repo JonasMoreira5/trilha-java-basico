@@ -15,6 +15,7 @@ atributos (variáveis) e métodos.
 * **Superclasse** - É a classe `principal` ou classe `base` da qual uma nova classe herda as propiedades ou métodos.
 * **Subclasse** - A classe que estende a classe pai é uma subclasse ou classe `filho`.
 * **extends** - Palavra-reservada que suporta herança
+* **super** - Palavra-reservada que denota um método construtor ou variável da classe principal. 
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 

@@ -1,10 +1,16 @@
-## Getting Started
+## Encapsulamento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O encapsulamento é outro conceito POO que representa ocultação de dados. Isso significa que as variáveis 
+são encapsuladas na classe e outras classes não podem acessá-las diretamente. Podemos acessá-los apenas 
+por meio dos métodos de classe pública. Desta forma, podemos ocultar dados importantes e restringir sua 
+modificação.
 
-## Folder Structure
+## Como conseguir o encapsulamento 
 
-The workspace contains two folders by default, where:
+Podemos alcançar o encapsulamento das maneiras abaixo.
+* Declarar variáveis como ***private***. Não podemos acessar variáveis privadas diretamente de outras 
+classes.
+* Executar os métodos ***getter*** e ***setter***. Podemos usá-los para ler e escrever os valores.
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies

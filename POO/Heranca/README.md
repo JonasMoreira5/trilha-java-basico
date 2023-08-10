@@ -2,9 +2,14 @@
 
 Herança é um dos recursos mais importantes de um sistema de Programação Orientado a Objetos (POO).
 
-## Folder Structure
+## O que é Herança
 
-The workspace contains two folders by default, where:
+Quando uma classe pode reutilizar os métodos e variáveis de outra classe, chamamos esse conceito em 
+POO como Herança. Esta classe pode reutilizar os dados e funções de outras classes estendendo a classe 
+usando a palavra-reservada **extends**. A classe pai é chamada de classe base ou superclasse e a classe que 
+estende a classe pai é chamada de classe filho ou subclasse ou classe derivada. Em outras palavras, usando 
+este conceito de POO, podemos definir uma nova classe usando a classe existente, herdando todos os 
+atributos (variáveis) e métodos.
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies

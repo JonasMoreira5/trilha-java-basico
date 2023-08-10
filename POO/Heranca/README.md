@@ -11,10 +11,10 @@ estende a classe pai é chamada de classe filho ou subclasse ou classe derivada.
 este conceito de POO, podemos definir uma nova classe usando a classe existente, herdando todos os 
 atributos (variáveis) e métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Terminologias na herança de Java
+* **Superclasse** - É a classe `principal` ou classe `base` da qual uma nova classe herda as propiedades ou métodos.
+* **Subclasse** - A classe que estende a classe pai é uma subclasse ou classe `filho`.
+* **extends** - Palavra-reservada que suporta herança
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 

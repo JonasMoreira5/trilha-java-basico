@@ -12,13 +12,15 @@ Podemos alcançar o encapsulamento das maneiras abaixo.
 classes.
 * Executar os métodos ***getter*** e ***setter***. Podemos usá-los para ler e escrever os valores.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+     ![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/51825231-9aff-41f0-b7fb-b24e70a6b017)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Vantagens do encapsulamento
+1. Fornece segurança ao não permitir que classes externas modifiquem os campos privados.
+2. Podemos ter métodos somente leitura ou gravação, portanto, fornecendo restrições para outras
+classes acessá-los. Isso significa que, se uma classe tem apenas o método getter, só podemos ler as 
+variáveis. Da mesma forma, podemos ter apenas o método setter para apenas definir valores a 
+variável.
+3. Fornece flexibilidade e capacidade de reutilização por meio dos métodos getter e setter
+4. Os detalhes de implementação não são visíveis para outras classes.
+5. Fácil para teste de unidade

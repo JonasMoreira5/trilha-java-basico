@@ -33,7 +33,12 @@ Tipo de herança onde uma classe estende outra classe. A partir da representaç�
 visual), podemos entender que a classe A é a classe base e a classe B é a subclasse.
 
 ![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/41c9b384-1939-4a50-98bf-a7cd5f35f306)
+### Herança multinível
+Nesse tipo de herança em java, a própria classe filho se torna uma classe pai de outra classe. No diagrama 
+abaixo, podemos entender que a classe A é a classe pai e a classe B é a classe filho. Mas a classe B 
+novamente é a classe-pai da classe C, que é a classe-filho. 
 
+![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/353999d9-d673-4fc5-9c7e-906e36005302)
 
 
 

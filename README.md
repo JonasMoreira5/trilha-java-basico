@@ -47,20 +47,3 @@ sendo executado.
 
 * A instrução finally permite definir um bloco de código a ser executado independente de ocorrer um erro ou não. As palavras-chave
 **try** e **catch**vêm em pares: 
-
-# Pílares da POO
-## Encapsulamento
-Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.
-Interface - Lista de serviços fornceidos por um componente. É o contato com  o mundo exterior, que define o que pode
-ser feito com um objeto dessa classe.
-vantatgens:
-  1. Tornar mudanças invisíveis
-  2. Facilitar reutilização do Código
-  3. Reduzir os efietos colaterais
-
-## Herança
-
-
-
-## Polimorfísmo
-

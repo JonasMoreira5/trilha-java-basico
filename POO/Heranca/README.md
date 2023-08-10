@@ -28,6 +28,12 @@ atributos (variáveis) e métodos.
 Existem diferentes tipos de herança, conforme descrito abaixo:
 ![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/9148d0e0-2577-4569-a1d1-97b89a8a66b7)
 
+### Herança Simples
+Tipo de herança onde uma classe estende outra classe. A partir da representação pictórica (representação 
+visual), podemos entender que a classe A é a classe base e a classe B é a subclasse.
+
+![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/41c9b384-1939-4a50-98bf-a7cd5f35f306)
+
 
 
 

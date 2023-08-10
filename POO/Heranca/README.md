@@ -23,5 +23,3 @@ atributos (variáveis) e métodos.
 * Permite chamar métodos da superclasse dentro de métodos de uma subclasse usando **paçavra-reservada super**.
 * Não permite herdar a classe final ou substituir métodos finais.
 * Suporta herança múltipla usando interfaces.
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

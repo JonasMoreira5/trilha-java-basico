@@ -40,5 +40,12 @@ novamente é a classe-pai da classe C, que é a classe-filho.
 
 ![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/353999d9-d673-4fc5-9c7e-906e36005302)
 
+### Herança hierárquica 
+Nesse tipo de herança em java, a mesma classe pai pode ter várias classes filho. A partir da imagem abaixo, 
+podemos entender que a classe A é a classe pai tanto da classe B quanto da classe C. Em simples palavras, 
+a classe A é o pai e a classe B e C são os irmãos. 
+
+![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/bc66c82e-6049-401d-a4f0-be6f1c513d9f)
+
 
 

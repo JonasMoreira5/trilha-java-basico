@@ -23,3 +23,9 @@ atributos (variáveis) e métodos.
 * Permite chamar métodos da superclasse dentro de métodos de uma subclasse usando **paçavra-reservada super**.
 * Não permite herdar a classe final ou substituir métodos finais.
 * Suporta herança múltipla usando interfaces.
+#
+## Tipos de Herança
+Existem diferentes tipos de herança, conforme descrito abaixo:
+![image](https://github.com/JonasMoreira5/trilha-java-basico/assets/98792997/b9bdf22d-a592-4791-9c36-7d732fe2aa34)
+
+

@@ -25,16 +25,16 @@ atributos (variáveis) e métodos.
 * Suporta herança múltipla usando interfaces.
 #
 ### Classe Abstrata
-*Não pode ser instanciada. Só pode servir como progenitora.
+* Não pode ser instanciada. Só pode servir como progenitora.
 
 ### Método Abstrato
-*Declarado, mas não implementado na projenitora.
+* Declarado, mas não implementado na projenitora.
 
 ### Classe Final
-*Não pode ser herdada por outra classe. Obrigatoriamente folha.
+* Não pode ser herdada por outra classe. Obrigatoriamente folha.
 
 ### Método Final
-*Não pode ser sobrescrito pelas suas sub-classes. Obrigatoriamente herdado.
+* Não pode ser sobrescrito pelas suas sub-classes. Obrigatoriamente herdado.
 
 ## Tipos de Herança
 Existem diferentes tipos de herança, conforme descrito abaixo:

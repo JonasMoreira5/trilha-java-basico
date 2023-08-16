@@ -23,7 +23,15 @@ public class App {
         b1.setSexo("F");
         b1.PagarMensalidade();  // método sobreposto
 
+        Professor p1 = new Professor();
+        p1.setNome("Jonas");
+        p1.setEspecialidade("Professor de algoritmo");
+        p1.receberAumento();
 
+        Tecnico t1 = new Tecnico();
+        t1.setNome("Mauro");
+        t1.setRegistroProfissional("Tecnico");
+        t1.praticar();
 
     }
 }

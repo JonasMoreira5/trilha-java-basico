@@ -23,6 +23,8 @@ atributos (variáveis) e métodos.
 * Permite chamar métodos da superclasse dentro de métodos de uma subclasse usando **paçavra-reservada super**.
 * Não permite herdar a classe final ou substituir métodos finais.
 * Suporta herança múltipla usando interfaces.
+
+ 
 #
 ### Classe Abstrata
 * Não pode ser instanciada. Só pode servir como progenitora.

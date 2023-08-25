@@ -12,11 +12,12 @@ public class Main {
         g[1] = new Gafanhoto("Creuza", 12, "F", "creuzita");
 
         Visualizacao view[] = new Visualizacao [5];
-        view[0] = new Visualizacao(g[0], v[0]);
+        view[0] = new Visualizacao(g[0], v[2]);
         System.out.println(view[0].toString());
 
         view[1] = new Visualizacao(g[0], v[1]);
-        System.out.println(view[0].toString());
+        view[0].avaliar(87.0f);
+        System.out.println(view[1].toString());
 
 
 

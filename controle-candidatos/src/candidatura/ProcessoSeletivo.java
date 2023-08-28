@@ -28,6 +28,14 @@ public class ProcessoSeletivo {
             }
 
         }while(continuatentando && tentativasRealizadas < 3);
+
+        if(atendeu)
+            System.out.println("CONSEGUIMOS CONTATO COM " + candidato + " NA " + tentativasRealizadas + " TENTATIVA");
+        else
+            System.out.println("NÃO CONSEGUIMOS CONTATO COM " + candidato + " NUMERO MAXIMO TENTATIVAS " + tentativasRealizadas + " REALIZADA");
+
+
+
     }
 
 

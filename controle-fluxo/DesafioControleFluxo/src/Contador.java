@@ -17,7 +17,10 @@ public class Contador {
         }
     }
 
-    static void contar(int parametroUm, int parametroDois){
-        
+    static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException{
+        // validar se parametoUm é MAIOR que parametroDois e lançar a exeção
+
+        int contagem = parametroDois - parametroDois;
+        // realizar o for para imprimir os números com base na variável contagem
     }
 }

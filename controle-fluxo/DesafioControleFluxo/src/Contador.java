@@ -11,10 +11,12 @@ public class Contador {
 
         try {
             // chamando o método contendo a lógica de contagem
-            
+            contar(parametroUm, parametroDois);
         } catch (Exception e) {
             // imprimir a mensagem: Os segundo parâmetro dever ser maior que o primeiro
         }
+
+        terminal.close();
     }
 
     static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException{

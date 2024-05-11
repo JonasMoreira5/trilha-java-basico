@@ -1,4 +1,4 @@
-# trilha-java-basico
+# trilha-Estudo-java-basico
 Repositório para exemplos do curso de Java Básico
 
 # Documentação
